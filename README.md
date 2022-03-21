@@ -7,10 +7,15 @@ this project.
 
 
 ## Topics
-
+- Functional Components
+- Class Components
+- Props Drilling
+- react hooks
 - React Router
 - Context Api
 - Search Filter
+- FontAwesome Library 
+- Tailwindcss
 
 
 
